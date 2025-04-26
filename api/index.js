@@ -1,6 +1,6 @@
 //var fs = require('fs');
 //var https = require('https');
-// var http = require('http');
+var http = require('http');
 var express = require('express');
 var {RtcTokenBuilder, RtmTokenBuilder, RtcRole, RtmRole} = require('agora-access-token')
 
