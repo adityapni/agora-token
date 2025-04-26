@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "agora token server",
   "scripts": {
-    "start": "node DemoServer.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "3.4.8"
   },
-  "main": "DemoServer.js",
+  "main": "index.js",
   "author": "Aditya Pendar",
   "license": "ISC"
 }
